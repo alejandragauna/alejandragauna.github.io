@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  font-family: "Amaranth", sans-serif;
+}
+
+header,
+section {
+  width: 1024px;
+  margin: auto;
+}
+header {
+  background-color: #57b8ff;
+}
+section {
+  background-color: #c2e5ff;
+}
+h1 {
+  margin: auto;
+}
+
+div {
+  display: flex;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+ul {
+  list-style: none;
+}
+button {
+  width: 100px;
+}
+
+.flex-container {
+  justify-content: center;
+}
+.color_cuerpo {
+  background-color: #acc3d7;
+}
